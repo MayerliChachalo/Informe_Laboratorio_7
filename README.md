@@ -5,10 +5,17 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 ## 1.  OBJETIVO DE LA PRÁCTICA
 
-- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
-- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
-- Verificar las combinaciones serie y paralelo de bobinas y capacitores.
-- Familiarizarse con el uso de instrumentos de medida.
+**Objetivo General**
+
+- Verificar y analizar el compotamiento de la bobina (inductor) y el capacitor en circuitos de corrientes alterna y directa así como conocer el funcionamiento de los diferentes instrumentos de medida de frecuencias.
+
+**Objetivos Específicos**
+
+- Comprobar y analizar el comportamiento de la bobina y el capacitor en circuitos de corriente directa.
+
+- Comprobar y analizar el comportamiento de la bobina y el capacitor en circuitos de corriente alterna.
+
+- Analizar las combinaciones en serie y paralelo de bobinas y capacitores para así poder medir exactamente el voltaje, la corriente y la frecuencia de los circuitos de corrientes alterna y directa.
 
 ## 2.  MARCO TEORICO
 
