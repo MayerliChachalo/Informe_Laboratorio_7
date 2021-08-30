@@ -52,20 +52,15 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
-a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
-valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
-b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
-de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
-frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ## 4. ANALISIS DE RESULTADOS 
 
-1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
-diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
-comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
 ## 5. PREGUNTAS
 
@@ -82,6 +77,9 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 ## 5.  CONCLUCIONES
 
+- Se pudo concluir que a medida que la señal de frecuecnia va en aumento o en decenso, los valores del voltaje máximo varian y esto depende de la configuración del circuito además de reconocer si el circuito está en corriente directa o alterna, ya que así la impedancia del capacitor o inductor está en función de la frecuencia.
+
+- Se pudo verificar que mientras la frecuencia sea mayor la impedancia inductiva es mayor y la impedancia capacitiva será menor.
 
 ## 6.  BIBLIOGRAFÍA
 
