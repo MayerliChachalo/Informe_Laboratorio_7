@@ -19,6 +19,8 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 ## 2.  MARCO TEORICO
 
+![Blank diagram](https://user-images.githubusercontent.com/75383758/131412828-213c3085-a3f6-45a7-9d55-762b98039b42.png)
+
 ## 3. MATERIALES
 
 - Generador de señales
@@ -83,4 +85,6 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 ## 6.  BIBLIOGRAFÍA
 
+Mecafenix, I. (2021). ¿Qué es un capacitor? y sus tipos - Ingeniería Mecafenix. Ingeniería Mecafenix. Retrieved 30 August 2021, from https://www.ingmecafenix.com/electronica/el-capacitor/.
 
+Qué es un inductor y cómo funciona. Plantas eléctricas. (2021). Retrieved 30 August 2021, from https://www.luzplantas.com/que-es-un-inductor-y-como-funciona/. 
