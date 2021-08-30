@@ -7,7 +7,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 **Objetivo General**
 
-- Verificar y analizar el compotamiento de la bobina (inductor) y el capacitor en circuitos de corrientes alterna y directa así como conocer el funcionamiento de los diferentes instrumentos de medida de frecuencias.
+- Verificar y analizar el compotamiento de la bobina (inductor) y el capacitor en circuitos de corrientes alterna y directa así como conocer el funcionamiento de los diferentes instrumentos de medida de voltaje, corriente y frecuencias.
 
 **Objetivos Específicos**
 
