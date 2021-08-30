@@ -19,7 +19,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 ## 2.  MARCO TEORICO
 
-![Blank diagram](https://user-images.githubusercontent.com/75383758/131412828-213c3085-a3f6-45a7-9d55-762b98039b42.png)
+![Blank diagram](https://user-images.githubusercontent.com/75383758/131413065-8b82cd5b-84d6-4cf4-84e6-32df39d5fb3a.png)
 
 ## 3. MATERIALES
 
