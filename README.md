@@ -100,21 +100,27 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 Para 0 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131494428-98235128-d3c3-4c21-8bb8-ec0387321e5c.png)
 
 Para 10 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131494455-e1b13d92-67e0-4114-82c4-4e701fc19152.png)
 
 Para 50 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131494483-4169732f-cb11-4449-8fe3-aa56b7b8cddd.png)
 
 Para 100 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131494503-b7d59ee3-6c87-4bf9-80c1-30fa2b2851d4.png)
 
 Para 500 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131494523-8d21605b-e527-4e98-9f3a-c4ef0d18fd77.png)
 
 Para 1000 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131494558-2e02498f-9891-45fd-9951-a9292b16fce2.png)
 
 2.- Construya el circuito mostrado en la Figura 2
 
