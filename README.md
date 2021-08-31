@@ -37,47 +37,63 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 ![image](https://user-images.githubusercontent.com/85126275/131268077-02f51179-ff98-42ea-ab85-bf4bf1265a07.png)
 
+Circuito armado en DCAC
+
+![image](https://user-images.githubusercontent.com/85126275/131492491-2c10db19-45af-4c35-bcd4-fa44a0bf7a12.png)
+
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
 Para 0 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131492582-383fcd9d-e704-4db5-abb3-c66a8c0dbf87.png)
 
 Para 10 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493202-b737bdc8-cf2c-4115-b4de-6e5061c00502.png)
 
 Para 50 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493301-67abd09f-cda5-4f8a-8e82-a0ade6c44433.png)
 
 Para 100 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493367-1458e916-65df-4c97-86c3-3cb92b3f82d1.png)
 
 Para 500 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493410-171ae48b-c0da-4099-b2d7-b9d52622b56e.png)
 
 Para 1000 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493448-805cdd6d-5e28-4fee-8a59-d0765c964d14.png)
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 Para 0 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493479-6b0989cc-4a79-4789-a318-fc5ceb92b619.png)
 
 Para 10 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493512-e7d20d7c-330b-45a1-8fc0-40c2f05e36bd.png)
 
 Para 50 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493560-6d334e04-ca14-4a0c-9ec8-f5d02fd8a6c7.png)
 
 Para 100 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493610-f154c100-899c-48f2-a1ec-0b396dbe4f9c.png)
 
 Para 500 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493647-24cb44c2-9183-4673-a386-58fa41492f0b.png)
 
 Para 1000 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131493678-f25c699d-30ab-4568-8aba-e004349073d3.png)
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
@@ -194,6 +210,14 @@ Para 1000 Hz
 
 - CIRCUITO 1
 
+| FRECUENCIA (Hz) | Voltaje pico (V) | Voltaje Vo | Corriente resistencia (mA) |
+|      :---:      |    :---:         |   :---:    |           :---:            |
+|        0        |       6.15       |    7.67    |           1.68             |
+|        10       |       9.91       |   7.040    |          10.60             |
+|        50       |       8.45       |    5.87    |           30.1             |
+|        100      |       6.21       |    4.33    |          71.90             |
+|        500      |       1.55       |    1.05    |          87.34             |
+|       1000      |      0.743       |    0.54    |          83.02             |
 
 - CIRCUITO 2 
 
